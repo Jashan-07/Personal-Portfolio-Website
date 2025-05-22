@@ -4,7 +4,7 @@ export default function Project()
 {
     // ADD PROJECT OBJECTS HERE 
     const projects = [
-        {id: 1, title: "My Portfolio Website", description: "A modern portfolio website builds with React and Tailwind CSS.", link:"https://example.com", technologies: ["HTML", "CSS", "React", "Tailwind CSS"]}
+        {id: 1, title: "My Portfolio Website", description: "A modern portfolio website builds with React and Tailwind CSS.", link:"https://personal-portfolio-website-drab-tau.vercel.app/", technologies: ["HTML", "CSS", "React", "Tailwind CSS"]}
     ]
 
     return <>
